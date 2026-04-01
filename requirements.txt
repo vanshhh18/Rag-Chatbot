@@ -5,3 +5,4 @@ faiss-cpu
 streamlit
 python-dotenv
 langchain-groq
+langchain-huggingface
