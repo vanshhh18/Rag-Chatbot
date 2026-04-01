@@ -4,4 +4,4 @@ pypdf
 faiss-cpu
 streamlit
 python-dotenv
-langchain-grok
+langchain-groq
