@@ -1,6 +1,0 @@
-langchain
-langchain-community
-pypdf
-faiss-cpu
-streamlit
-python-dotenv
