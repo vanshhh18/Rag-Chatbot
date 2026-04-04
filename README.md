@@ -1,6 +1,6 @@
 # Rag-Chatbot
 Link for the chatbot:
-https://rag-chatbot-dprbcxahved4vcyvr4kb5k.streamlit.app/
+https://rag-chatbot-wjdvvsnltezmebj9xvkrkr.streamlit.app/
 
 # RAG Chatbot
 
